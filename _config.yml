@@ -1,0 +1,10 @@
+# Sass setup
+sass:
+  sass_dir: stylesheets
+  style:    compressed
+
+# Files to exclude
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
